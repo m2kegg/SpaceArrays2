@@ -7,7 +7,6 @@
     <ru.samsung.itschool.spacearrays.MyDraw
         android:id="@+id/myDraw1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-         />
+        android:layout_height="match_parent" />
 
 </RelativeLayout>
